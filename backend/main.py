@@ -25,7 +25,7 @@ class JDRequest(BaseModel):
 
 def ask_ai(prompt: str) -> str:
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="llama3-8b-8192",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3,
         max_tokens=1000,
