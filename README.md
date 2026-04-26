@@ -93,7 +93,7 @@ Combined Score = 0.6 × Match Score + 0.4 × Interest Score
 
 | Layer | Technology |
 |-------|-----------|
-| AI Model | Groq API — llama-3.3-70b-versatile (Free) |
+|AI Model | Groq API — llama-3.1-8b-instant (Free) |
 | Backend | Python + FastAPI + Uvicorn |
 | Frontend | Vanilla HTML / CSS / JavaScript |
 | Candidate Data | Synthetic JSON (20 Indian tech profiles) |
