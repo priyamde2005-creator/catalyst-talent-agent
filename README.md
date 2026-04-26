@@ -3,7 +3,9 @@
 > Built for Catalyst Hackathon by Deccan AI
 
 ## 🚀 Live Demo
-**Deployed URL:** https://catalyst-talent-agent.onrender.com
+**Live App:** https://priyamde2005-creator.github.io/catalyst-talent-agent/frontend/
+
+**Backend API:** https://catalyst-talent-agent.onrender.com
 
 ## 🎯 What It Does
 
