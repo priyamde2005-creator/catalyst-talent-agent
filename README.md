@@ -189,6 +189,6 @@ Each result includes:
 
 ---
 
-## 👥 Team
+## Team
 
 Built by **Priyam De** for Catalyst Hackathon — Deccan AI 2026
