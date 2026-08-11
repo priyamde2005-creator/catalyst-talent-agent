@@ -2,12 +2,12 @@
 
 > Built for Catalyst Hackathon by Deccan AI
 
-## 🚀 Live Demo
+##  Live Demo
 **Live App:** https://priyamde2005-creator.github.io/catalyst-talent-agent/frontend/
 
 **Backend API:** https://catalyst-talent-agent.onrender.com
 
-## 🎯 What It Does
+##  What It Does
 
 Catalyst is an AI agent that automates talent scouting end-to-end:
 
@@ -18,7 +18,7 @@ Catalyst is an AI agent that automates talent scouting end-to-end:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -67,7 +67,7 @@ Catalyst is an AI agent that automates talent scouting end-to-end:
 
 ---
 
-## 📊 Scoring Logic
+## coring Logic
 
 ### Match Score (0–100)
 Calculated by AI based on:
@@ -89,7 +89,7 @@ Combined Score = 0.6 × Match Score + 0.4 × Interest Score
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -101,7 +101,7 @@ Combined Score = 0.6 × Match Score + 0.4 × Interest Score
 
 ---
 
-## 🚀 Local Setup
+##  Local Setup
 
 ### Prerequisites
 - Python 3.10+
@@ -142,7 +142,7 @@ Open `frontend/index.html` in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 catalyst-talent-agent/
@@ -158,7 +158,7 @@ catalyst-talent-agent/
 
 ---
 
-## 🧪 Sample Input
+##  Sample Input
 
 ```
 We are looking for a Senior ML Engineer with 4-7 years of experience.
@@ -171,7 +171,7 @@ Location: Bangalore (Hybrid)
 Salary: 20-35 LPA
 ```
 
-## 📤 Sample Output
+##  Sample Output
 
 | Rank | Candidate | Role | Match | Interest | Combined |
 |------|-----------|------|-------|----------|----------|
@@ -182,10 +182,10 @@ Salary: 20-35 LPA
 | #5 | Aditya Singh | Tech Lead @ Genpact | 70 | 65 | 68 |
 
 Each result includes:
-- ✅ Why they match (2-3 reasons)
-- ⚠️ Skill gaps / concerns
-- 💬 Full simulated conversation
-- 👤 Complete candidate profile
+- Why they match (2-3 reasons)
+-  Skill gaps / concerns
+-  Full simulated conversation
+- Complete candidate profile
 
 ---
 
