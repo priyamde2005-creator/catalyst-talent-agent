@@ -7,7 +7,7 @@
 
 **Backend API:** https://catalyst-talent-agent.onrender.com
 
-**Live Demo:** https://www.youtube.com/watch?v=FZ7_DsGO0-w
+**Live Video Demo:** https://www.youtube.com/watch?v=FZ7_DsGO0-w
 
 ##  What It Does
 
